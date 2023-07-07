@@ -1,2 +1,1 @@
-# TinDog
-A website for dogs
+TinDog Starting Files
